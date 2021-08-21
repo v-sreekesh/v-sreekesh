@@ -32,6 +32,8 @@
 <p>
 	<a align= "center" href="https://github.com/v-sreekesh"><img alt= "stats card" align="center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=v-sreekesh&theme=default&show_icons=true&count_private=true" />
   	</a>
+	<a align= "center" href="https://github.com/v-sreekesh"><img alt= " Steak stats card" align="center" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=v-sreekesh&theme=blue-green" /> 
+  	</a>
 </p>
 
 ## My Github Activity ⚡
@@ -47,7 +49,8 @@
 8. Raised a PR [#4018](https://github.com/MicrosoftDocs/msteams-docs/pull/4018) in [MicrosoftDocs/msteams-docs](https://github.com/MicrosoftDocs/msteams-docs)
 <!--END_SECTION:activity-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-sreekesh&layout=compact)](https://github.com/v-sreekesh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-sreekesh)](https://github.com/v-sreekesh/github-readme-stats)
+
 
 <!---
 v-sreekesh/v-sreekesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
