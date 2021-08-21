@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Apache Spark
 - 🔭 I’m currently working on Data Science Projects
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 How to reach me [sreekeshv31@gmail.com](mailto:sreekeshv31@gmail.com)[Twitter @sreekesh11](https://twitter.com/sreekesh11)
+- 📫 How to reach me [sreekeshv31@gmail.com](mailto:sreekeshv31@gmail.com) [Twitter @sreekesh11](https://twitter.com/sreekesh11)
 - 😄 Pronouns: He/Him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-sreekesh&label=Profile%20views&color=0e75b6&style=flat" alt="Sreekesh V" /> </p>
