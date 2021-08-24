@@ -33,8 +33,8 @@
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![]()
-![]()
+![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-sreekesh&label=Profile%20views&color=0e75b6&style=flat" alt="Sreekesh V" /> </p>
 
