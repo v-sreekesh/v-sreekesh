@@ -43,12 +43,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-sreekesh&label=Profile%20views&color=0e75b6&style=flat" alt="Sreekesh V" /> </p>
 
-<p>
-	<a align= "center" href="https://github.com/v-sreekesh"><img alt= "stats card" align="center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=v-sreekesh&theme=default&show_icons=true&count_private=true" />
-  	</a>
-	<a align= "center" href="https://github.com/v-sreekesh"><img alt= " Steak stats card" align="center" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=v-sreekesh&theme=blue-green" /> 
-  	</a>
-</p>
+
 
 ## My Github Activity ⚡
 
